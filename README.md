@@ -1,9 +1,9 @@
 # Building and Analyzing a Bicycle Business Data Warehouse
 
 ## Course Information
-**Course**: IS217.O21.HTCL - Data Warehouse and OLAP  
-**Lecturer**: MSc. Nguyen Thi Kim Phung
-**Semester**: 2, 2023-2024 
+**Course**: IS217.O21.HTCL - Data Warehouse and OLAP.
+**Lecturer**: MSc. Nguyen Thi Kim Phung.
+**Semester**: 2, 2023-2024.
 
 ## Team Information
 | No. | Student ID | Full Name           |
