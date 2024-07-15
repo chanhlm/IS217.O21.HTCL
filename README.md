@@ -2,7 +2,7 @@
 
 ## Course Information
 **Course**: IS217.O21.HTCL - Data Warehouse and OLAP  
-**Lecturer**: MSc. Nguyen Thi Kim Phung 
+**Lecturer**: MSc. Nguyen Thi Kim Phung
 **Semester**: 2, 2023-2024 
 
 ## Team Information
